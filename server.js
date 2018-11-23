@@ -76,7 +76,7 @@ app.get('/discussions', function(req,res){
 });
 });
 
-app.get('/discussions', function(req,res){
+app.get('/documenttext', function(req,res){
     fs.readFile( "data.json"+ "/" + "millward_ensosDEMO_table_documenttext.json", 'utf8', function (err, data) {
     console.log( data );
     res.end( data );
