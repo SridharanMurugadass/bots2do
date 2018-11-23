@@ -1,0 +1,153 @@
+,{
+    "type": "table",
+    "name": "categories",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "id": "1",
+    "description": "Attitudes and behaviours",
+    "eventtypeId": "4",
+    "sortorder": "1"
+},
+{
+    "id": "2",
+    "description": "Equipment and maintenance",
+    "eventtypeId": "4",
+    "sortorder": "2"
+},
+{
+    "id": "3",
+    "description": "Staffing levels",
+    "eventtypeId": "4",
+    "sortorder": "3"
+},
+{
+    "id": "4",
+    "description": "Policies, procedures and processes",
+    "eventtypeId": "4",
+    "sortorder": "4"
+},
+{
+    "id": "5",
+    "description": "Quality and safety",
+    "eventtypeId": "4",
+    "sortorder": "5"
+},
+{
+    "id": "6",
+    "description": "Patient experience",
+    "eventtypeId": "4",
+    "sortorder": "6"
+},
+{
+    "id": "7",
+    "description": "Performance capability",
+    "eventtypeId": "4",
+    "sortorder": "7"
+},
+{
+    "id": "8",
+    "description": "Service changes",
+    "eventtypeId": "4",
+    "sortorder": "8"
+},
+{
+    "id": "9",
+    "description": "Other",
+    "eventtypeId": "4",
+    "sortorder": "9"
+},
+{
+    "id": "10",
+    "description": "Other",
+    "eventtypeId": "1",
+    "sortorder": "1"
+},
+{
+    "id": "11",
+    "description": "Other",
+    "eventtypeId": "2",
+    "sortorder": "1"
+},
+{
+    "id": "12",
+    "description": "Other",
+    "eventtypeId": "3",
+    "sortorder": "1"
+},
+{
+    "id": "28",
+    "description": "Other",
+    "eventtypeId": "6",
+    "sortorder": "12"
+},
+{
+    "id": "29",
+    "description": "Investor related",
+    "eventtypeId": "6",
+    "sortorder": "1"
+},
+{
+    "id": "30",
+    "description": "Executive related",
+    "eventtypeId": "6",
+    "sortorder": "2"
+},
+{
+    "id": "31",
+    "description": "Customer related",
+    "eventtypeId": "6",
+    "sortorder": "3"
+},
+{
+    "id": "32",
+    "description": "Operations related",
+    "eventtypeId": "6",
+    "sortorder": "4"
+},
+{
+    "id": "33",
+    "description": "IT related",
+    "eventtypeId": "6",
+    "sortorder": "5"
+},
+{
+    "id": "34",
+    "description": "Finance related",
+    "eventtypeId": "6",
+    "sortorder": "6"
+},
+{
+    "id": "35",
+    "description": "People related",
+    "eventtypeId": "6",
+    "sortorder": "7"
+},
+{
+    "id": "36",
+    "description": "Security related",
+    "eventtypeId": "6",
+    "sortorder": "8"
+},
+{
+    "id": "37",
+    "description": "Governance related",
+    "eventtypeId": "6",
+    "sortorder": "9"
+},
+{
+    "id": "38",
+    "description": "Legal related",
+    "eventtypeId": "6",
+    "sortorder": "10"
+},
+{
+    "id": "39",
+    "description": "Project related",
+    "eventtypeId": "6",
+    "sortorder": "11"
+}
+]
+
+}

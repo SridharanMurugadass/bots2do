@@ -1,0 +1,45 @@
+,{
+    "type": "table",
+    "name": "conclusions",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "id": "1",
+    "shortCode": "NOTEN",
+    "description": "Closed - not enough info",
+    "order": "1"
+},
+{
+    "id": "2",
+    "shortCode": "UPHELD",
+    "description": "Closed - upheld",
+    "order": "2"
+},
+{
+    "id": "3",
+    "shortCode": "RAISERR",
+    "description": "Closed.- raised in error",
+    "order": "3"
+},
+{
+    "id": "4",
+    "shortCode": "WITHDRWN",
+    "description": "Closed - withdrawn",
+    "order": "4"
+},
+{
+    "id": "5",
+    "shortCode": "SUSMAL",
+    "description": "Closed - suspected malicious",
+    "order": "5"
+},
+{
+    "id": "6",
+    "shortCode": "CONMAL",
+    "description": "Closed - confirmed malicious",
+    "order": "6"
+}
+]
+
+}

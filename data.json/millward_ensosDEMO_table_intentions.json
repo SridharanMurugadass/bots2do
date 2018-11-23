@@ -1,0 +1,27 @@
+,{
+    "type": "table",
+    "name": "intentions",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "id": "1",
+    "shortCode": "SUSMAL",
+    "description": "Suspected Malicious",
+    "colour": "#ffbf00"
+},
+{
+    "id": "2",
+    "shortCode": "REPERR",
+    "description": "Reported in Error",
+    "colour": null
+},
+{
+    "id": "3",
+    "shortCode": "POSITIVE",
+    "description": "Positive Intention",
+    "colour": "#90EE90"
+}
+]
+
+}

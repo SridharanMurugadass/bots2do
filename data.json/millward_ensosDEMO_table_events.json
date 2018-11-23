@@ -1,0 +1,207 @@
+,{
+    "type": "table",
+    "name": "events",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "id": "0",
+    "name": "anon_3m",
+    "component": "survey",
+    "display": "Anon",
+    "elements": null,
+    "low": "0",
+    "high": "10",
+    "description": "The proportion of Survey questions that were submitted as anonymous in the last 3 months",
+    "eg": "If 46 questions were anonynous in a 3 month total of 200 this would deliver a score of 43%: (46\/200)*100"
+},
+{
+    "id": "1",
+    "name": "open_3m",
+    "component": "whistle",
+    "display": "Open 3m",
+    "elements": null,
+    "low": "0",
+    "high": "20",
+    "description": "The number of Whistles that have been open for more than 3 months",
+    "eg": null
+},
+{
+    "id": "2",
+    "name": "quick_3m",
+    "component": "whistle",
+    "display": "Quick 3m",
+    "elements": null,
+    "low": "0",
+    "high": "20",
+    "description": "The number of Concerns that have been open for more than 3 months",
+    "eg": null
+},
+{
+    "id": "3",
+    "name": "5d",
+    "component": "survey",
+    "display": "None 5d",
+    "elements": null,
+    "low": "0",
+    "high": "1",
+    "description": "The number of Survey questions answered in the last 5 days",
+    "eg": null
+},
+{
+    "id": "4",
+    "name": "open",
+    "component": "whistle",
+    "display": "Open",
+    "elements": null,
+    "low": "5",
+    "high": "50",
+    "description": "The number of open Whistles",
+    "eg": null
+},
+{
+    "id": "5",
+    "name": "open_anon",
+    "component": "whistle",
+    "display": "Anon",
+    "elements": null,
+    "low": "0",
+    "high": "1",
+    "description": "The proportion of Whistles that were submitted as anonymous in the last 3 months",
+    "eg": "If 1 whistle was anonynous in a 3 month total of 10 this would deliver a score of 10%: (1\/10)*100"
+},
+{
+    "id": "6",
+    "name": "refuse_3m",
+    "component": "survey",
+    "display": "Refuse",
+    "elements": null,
+    "low": "0",
+    "high": "50",
+    "description": "The number of refusals for Survey questions in the last 3 months",
+    "eg": null
+},
+{
+    "id": "7",
+    "name": "closed_not_met",
+    "component": "grow",
+    "display": "Not Met",
+    "elements": null,
+    "low": "0",
+    "high": "15",
+    "description": "The number of Grow objectives that were closed when not achieved",
+    "eg": null
+},
+{
+    "id": "8",
+    "name": "closed_met",
+    "component": "grow",
+    "display": "Met",
+    "elements": null,
+    "low": "15",
+    "high": "0",
+    "description": "The number of Grow objectives that were closed and achieved",
+    "eg": null
+},
+{
+    "id": "9",
+    "name": "open_3m",
+    "component": "flag",
+    "display": "Open 3m",
+    "elements": null,
+    "low": "0",
+    "high": "20",
+    "description": "The number of Flags that have been open for more than 3 months",
+    "eg": null
+},
+{
+    "id": "10",
+    "name": "quick_3m",
+    "component": "flag",
+    "display": "Quick 3m",
+    "elements": null,
+    "low": "0",
+    "high": "20",
+    "description": "The number of Concerns that have been open for more than 3 months",
+    "eg": null
+},
+{
+    "id": "11",
+    "name": "open",
+    "component": "flag",
+    "display": "Open",
+    "elements": null,
+    "low": "5",
+    "high": "20",
+    "description": "The number of open Flags",
+    "eg": null
+},
+{
+    "id": "12",
+    "name": "open_3m",
+    "component": "grow",
+    "display": "Open 3m",
+    "elements": null,
+    "low": "0",
+    "high": "20",
+    "description": "The number of Grow objectives that have been open for 3m or more",
+    "eg": null
+},
+{
+    "id": "13",
+    "name": "open_anon",
+    "component": "flag",
+    "display": "Anon",
+    "elements": null,
+    "low": "0",
+    "high": "1",
+    "description": "The proportion of Flags that were submitted as anonymous in the last 3 months",
+    "eg": "If 1 whistle was anonynous in a 3 month total of 10 this would deliver a score of 10%: (1\/10)*100"
+},
+{
+    "id": "14",
+    "name": "open_3m",
+    "component": "guardian",
+    "display": "Open 3m",
+    "elements": null,
+    "low": "0",
+    "high": "20",
+    "description": "The number of guardians that have been open for more than 3 months",
+    "eg": null
+},
+{
+    "id": "15",
+    "name": "quick_3m",
+    "component": "guardian",
+    "display": "Quick 3m",
+    "elements": null,
+    "low": "0",
+    "high": "20",
+    "description": "The number of Concerns that have been open for more than 3 months",
+    "eg": null
+},
+{
+    "id": "16",
+    "name": "open",
+    "component": "guardian",
+    "display": "Open",
+    "elements": null,
+    "low": "5",
+    "high": "50",
+    "description": "The number of open guardians",
+    "eg": null
+},
+{
+    "id": "17",
+    "name": "open_anon",
+    "component": "guardian",
+    "display": "Anon",
+    "elements": null,
+    "low": "0",
+    "high": "1",
+    "description": "The proportion of guardians that were submitted as anonymous in the last 3 months",
+    "eg": "If 1 guardian was anonynous in a 3 month total of 10 this would deliver a score of 10%: (1\/10)*100"
+}
+]
+
+}

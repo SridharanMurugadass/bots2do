@@ -1,0 +1,33 @@
+,{
+    "type": "table",
+    "name": "eventtypes",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "id": "6",
+    "description": "Discussion"
+},
+{
+    "id": "2",
+    "description": "Flag"
+},
+{
+    "id": "4",
+    "description": "Guardian"
+},
+{
+    "id": "3",
+    "description": "Spot"
+},
+{
+    "id": "5",
+    "description": "Survey"
+},
+{
+    "id": "1",
+    "description": "Whistle"
+}
+]
+
+}

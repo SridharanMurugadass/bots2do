@@ -1,0 +1,23 @@
+,{
+    "type": "table",
+    "name": "surveys",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "id": "1",
+    "eventtypeId": "0",
+    "description": "default",
+    "narrative": null,
+    "islight": "0"
+},
+{
+    "id": "2",
+    "eventtypeId": "0",
+    "description": "default light",
+    "narrative": null,
+    "islight": "1"
+}
+]
+
+}

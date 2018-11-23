@@ -1,0 +1,27 @@
+,{
+    "type": "table",
+    "name": "officehours",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "id": "1",
+    "patternId": "1",
+    "mondayStart": "0000-00-00 09:00:00",
+    "mondayEnd": "0000-00-00 17:00:00",
+    "tuesdayStart": "0000-00-00 09:00:00",
+    "tuesdayEnd": "0000-00-00 17:00:00",
+    "wednesdayStart": "0000-00-00 09:00:00",
+    "wednesdayEnd": "0000-00-00 17:00:00",
+    "thursdayStart": "0000-00-00 09:00:00",
+    "thursdayEnd": "0000-00-00 17:00:00",
+    "fridayStart": "0000-00-00 09:00:00",
+    "fridayEnd": "0000-00-00 17:00:00",
+    "saturdayStart": null,
+    "saturdayEnd": null,
+    "sundayStart": null,
+    "sundayEnd": null
+}
+]
+
+}

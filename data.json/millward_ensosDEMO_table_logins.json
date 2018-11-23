@@ -1,0 +1,279 @@
+,{
+    "type": "table",
+    "name": "logins",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "id": "1",
+    "username": "FTSUG@MyD",
+    "company_id": "1",
+    "time": "1515065172"
+},
+{
+    "id": "2",
+    "username": "dentist@myd",
+    "company_id": "1",
+    "time": "1515651501"
+},
+{
+    "id": "3",
+    "username": "dentist@myd",
+    "company_id": "1",
+    "time": "1515651538"
+},
+{
+    "id": "4",
+    "username": "fw@pcaw",
+    "company_id": "2",
+    "time": "1516997337"
+},
+{
+    "id": "5",
+    "username": "sup1@pcaw",
+    "company_id": "2",
+    "time": "1516997944"
+},
+{
+    "id": "6",
+    "username": "fw@pcaw",
+    "company_id": "2",
+    "time": "1517313620"
+},
+{
+    "id": "7",
+    "username": "fw@pcaw",
+    "company_id": "2",
+    "time": "1517488711"
+},
+{
+    "id": "8",
+    "username": "mm@1tw",
+    "company_id": "3",
+    "time": "1518199990"
+},
+{
+    "id": "9",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1518614344"
+},
+{
+    "id": "10",
+    "username": "amb@1tw ",
+    "company_id": "3",
+    "time": "1521469817"
+},
+{
+    "id": "11",
+    "username": "amb@1tw ",
+    "company_id": "3",
+    "time": "1521469828"
+},
+{
+    "id": "12",
+    "username": "amb@1tw ",
+    "company_id": "3",
+    "time": "1521469855"
+},
+{
+    "id": "13",
+    "username": "amb@1tw ",
+    "company_id": "3",
+    "time": "1521469878"
+},
+{
+    "id": "14",
+    "username": "amb@1tw ",
+    "company_id": "3",
+    "time": "1521469971"
+},
+{
+    "id": "15",
+    "username": "anita@edu",
+    "company_id": "3",
+    "time": "1521649235"
+},
+{
+    "id": "16",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1521710303"
+},
+{
+    "id": "17",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1521710309"
+},
+{
+    "id": "18",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1524569629"
+},
+{
+    "id": "19",
+    "username": "jas@uni",
+    "company_id": "3",
+    "time": "1524654703"
+},
+{
+    "id": "20",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1524757206"
+},
+{
+    "id": "21",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1525862979"
+},
+{
+    "id": "22",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1525862983"
+},
+{
+    "id": "23",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1525862987"
+},
+{
+    "id": "24",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1525862999"
+},
+{
+    "id": "25",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1525863003"
+},
+{
+    "id": "26",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1526303244"
+},
+{
+    "id": "27",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1526987139"
+},
+{
+    "id": "28",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1527693642"
+},
+{
+    "id": "29",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1530891629"
+},
+{
+    "id": "30",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1531738138"
+},
+{
+    "id": "31",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1531738142"
+},
+{
+    "id": "32",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1532507532"
+},
+{
+    "id": "33",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1533218510"
+},
+{
+    "id": "34",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1533218520"
+},
+{
+    "id": "35",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1537471713"
+},
+{
+    "id": "36",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1537471738"
+},
+{
+    "id": "37",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1537471743"
+},
+{
+    "id": "38",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1538561764"
+},
+{
+    "id": "39",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1538745081"
+},
+{
+    "id": "40",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1539006715"
+},
+{
+    "id": "41",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1539595376"
+},
+{
+    "id": "42",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1539965795"
+},
+{
+    "id": "43",
+    "username": "amb@1tw",
+    "company_id": "3",
+    "time": "1540375987"
+},
+{
+    "id": "44",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1541760023"
+},
+{
+    "id": "45",
+    "username": "jw@1tw",
+    "company_id": "3",
+    "time": "1542885337"
+}
+]
+
+}

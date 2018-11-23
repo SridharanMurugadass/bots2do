@@ -1,0 +1,48 @@
+,{
+    "type": "table",
+    "name": "licences",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "company_id": "1",
+    "use_360": "0",
+    "use_flag": "1",
+    "use_grow": "0",
+    "use_spot": "1",
+    "use_survey": "0",
+    "use_whistle": "1",
+    "use_encol": "1",
+    "use_guardian": "0",
+    "use_guardianl": "0",
+    "use_discussion": "1"
+},
+{
+    "company_id": "2",
+    "use_360": "0",
+    "use_flag": "1",
+    "use_grow": "0",
+    "use_spot": "1",
+    "use_survey": "0",
+    "use_whistle": "1",
+    "use_encol": "1",
+    "use_guardian": "1",
+    "use_guardianl": "0",
+    "use_discussion": "1"
+},
+{
+    "company_id": "3",
+    "use_360": "0",
+    "use_flag": "1",
+    "use_grow": "0",
+    "use_spot": "1",
+    "use_survey": "1",
+    "use_whistle": "1",
+    "use_encol": "1",
+    "use_guardian": "1",
+    "use_guardianl": "0",
+    "use_discussion": "1"
+}
+]
+
+}

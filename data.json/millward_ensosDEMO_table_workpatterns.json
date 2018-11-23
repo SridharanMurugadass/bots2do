@@ -1,0 +1,13 @@
+,{
+    "type": "table",
+    "name": "workpatterns",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "id": "1",
+    "description": "Standard"
+}
+]
+
+}

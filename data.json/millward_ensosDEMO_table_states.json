@@ -1,0 +1,58 @@
+,{
+    "type": "table",
+    "name": "states",
+    "database": "millward_ensosDEMO",
+    "data": 
+[
+{
+    "id": "1",
+    "shortCode": "SUBMITTED",
+    "description": "Submitted",
+    "isPublished": "1",
+    "order": "1"
+},
+{
+    "id": "2",
+    "shortCode": "OPEN",
+    "description": "The Report has been opened",
+    "isPublished": "1",
+    "order": "2"
+},
+{
+    "id": "3",
+    "shortCode": "CLOSED",
+    "description": "The report has a resolution and has been closed",
+    "isPublished": "1",
+    "order": "7"
+},
+{
+    "id": "4",
+    "shortCode": "ASSESSED",
+    "description": "The Report has had the priority set and is now Assessed",
+    "isPublished": "1",
+    "order": "3"
+},
+{
+    "id": "5",
+    "shortCode": "RESOLVING",
+    "description": "",
+    "isPublished": "0",
+    "order": "5"
+},
+{
+    "id": "6",
+    "shortCode": "INVESTIGATING",
+    "description": "Under investigation",
+    "isPublished": "0",
+    "order": "4"
+},
+{
+    "id": "7",
+    "shortCode": "RESOLVED",
+    "description": "",
+    "isPublished": "0",
+    "order": "6"
+}
+]
+
+}
